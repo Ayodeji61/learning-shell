@@ -6,4 +6,4 @@ echo Value of a = $a
 
 DATE=$(date)
 
-Today Date is $DATE
+echo Today Date is $DATE
