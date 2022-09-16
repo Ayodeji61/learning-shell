@@ -4,6 +4,6 @@ c=true
 
 echo Value of a = $a
 
-DATE = $(date)
+DATE=$(date)
 
 Today Date is $DATE
